@@ -3249,7 +3249,7 @@ __metadata:
     i18next-http-backend: "npm:^2.5.1"
     jest: "npm:^29.7.0"
     react: "npm:19.0.0-rc-38e3b23483-20240529"
-    react-compiler-healthcheck: "npm:0.0.0-experimental-f978439-20240517"
+    react-compiler-healthcheck: "npm:0.0.0-experimental-7054a14-20240601"
     react-dom: "npm:19.0.0-rc-38e3b23483-20240529"
     react-i18next: "npm:^14.1.0"
     terser: "npm:^5.31.0"
@@ -13258,9 +13258,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-compiler-healthcheck@npm:0.0.0-experimental-f978439-20240517":
-  version: 0.0.0-experimental-f978439-20240517
-  resolution: "react-compiler-healthcheck@npm:0.0.0-experimental-f978439-20240517"
+"react-compiler-healthcheck@npm:0.0.0-experimental-7054a14-20240601":
+  version: 0.0.0-experimental-7054a14-20240601
+  resolution: "react-compiler-healthcheck@npm:0.0.0-experimental-7054a14-20240601"
   dependencies:
     "@babel/core": "npm:^7.24.4"
     "@babel/parser": "npm:^7.24.4"
@@ -13272,7 +13272,7 @@ __metadata:
     zod-validation-error: "npm:^3.0.3"
   bin:
     react-compiler-healthcheck: dist/index.js
-  checksum: 10c0/f3078562ed2debff31fbdac6adaece9635c8e5bbe410dc822b9b9c3530223666cbb8f18aa582b6476538c1298ff510c8795b0e81f859d3944b1c5b8fca0a9d45
+  checksum: 10c0/ab747291f33cb8b5baf27799bdc811ca180d7da8d8c1963493337db254f474d9d3aeecd97e81b06631a96e3ac4ebba55d67f597af992b47519596be11bc04e5d
   languageName: node
   linkType: hard
 

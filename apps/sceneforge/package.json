@@ -66,7 +66,7 @@
     "browser-sync": "^3.0.2",
     "eslint": "^9.5.0",
     "jest": "^29.7.0",
-    "react-compiler-healthcheck": "0.0.0-experimental-f978439-20240517",
+    "react-compiler-healthcheck": "0.0.0-experimental-7054a14-20240601",
     "terser": "^5.31.0",
     "ts-jest": "^29.1.2",
     "ts-node": "*",
