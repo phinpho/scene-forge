@@ -45,7 +45,7 @@
     "i18next-browser-languagedetector": "^8.0.0",
     "i18next-http-backend": "^2.5.1",
     "react": "19.0.0-rc-38e3b23483-20240529",
-    "react-dom": "19.0.0-rc-38e3b23483-20240529",
+    "react-dom": "19.0.0-rc.0",
     "react-i18next": "^14.1.0",
     "uuid": "^9.0.1"
   },
