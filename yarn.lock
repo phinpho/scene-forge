@@ -3248,7 +3248,7 @@ __metadata:
     i18next-browser-languagedetector: "npm:^8.0.0"
     i18next-http-backend: "npm:^2.5.1"
     jest: "npm:^29.7.0"
-    react: "npm:19.0.0-rc-38e3b23483-20240529"
+    react: "npm:19.0.0-rc.0"
     react-compiler-healthcheck: "npm:0.0.0-experimental-f978439-20240517"
     react-dom: "npm:19.0.0-rc-38e3b23483-20240529"
     react-i18next: "npm:^14.1.0"
