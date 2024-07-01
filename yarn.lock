@@ -3321,7 +3321,7 @@ __metadata:
     "@storybook/test": "npm:^8.1.10"
     "@stylexjs/dev-runtime": "npm:^0.6.1"
     "@stylexjs/rollup-plugin": "npm:^0.6.1"
-    "@stylexjs/stylex": "npm:^0.6.1"
+    "@stylexjs/stylex": "npm:^0.7.5"
     "@types/node": "npm:*"
     "@types/react": "npm:types-react@rc"
     "@types/react-dom": "npm:types-react-dom@rc"
@@ -4230,7 +4230,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@stylexjs/stylex@npm:0.6.1, @stylexjs/stylex@npm:^0.6.1":
+"@stylexjs/stylex@npm:0.6.1":
   version: 0.6.1
   resolution: "@stylexjs/stylex@npm:0.6.1"
   dependencies:
@@ -4238,6 +4238,17 @@ __metadata:
     invariant: "npm:^2.2.4"
     styleq: "npm:0.1.3"
   checksum: 10c0/d1d6fb09c609e5496650da0411ef74e7f5297d615e7a6294fd7987717cbf09c398427590fa68230e62eb2f95cc1701ddbd85bff1d0ef8294617343fed0b7fbf1
+  languageName: node
+  linkType: hard
+
+"@stylexjs/stylex@npm:^0.7.5":
+  version: 0.7.5
+  resolution: "@stylexjs/stylex@npm:0.7.5"
+  dependencies:
+    css-mediaquery: "npm:^0.1.2"
+    invariant: "npm:^2.2.4"
+    styleq: "npm:0.1.3"
+  checksum: 10c0/1039669bf957e035a32bcc416b7851ddf3b38956fd050f68592cc29aa65857d0feae61ca5b3b74baa70f9c3434b0676f654c8f4bbd2ed5fced56a491d4624948
   languageName: node
   linkType: hard
 
